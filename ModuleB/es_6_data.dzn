@@ -1,0 +1,4 @@
+NumCars = 9;
+Colors = {Red, Green, Blue, Yellow};
+CarColors = [Blue, Green, Yellow, Red, Blue, Red, Green, Red, Yellow];
+MaxD=3;

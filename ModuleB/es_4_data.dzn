@@ -1,0 +1,14 @@
+LimitiNutrizionali = [3000,150,3000];
+
+% colonne: sodio, grassi, calorie, costo
+Valori = 
+[| 
+  50,      17,   220,       25,  % Carne
+|330,       9,   260,       15,  % Pane
+|310,       6,    70,       10,  % Formaggio
+|  1,       2,    10,        9,  % Cipolla
+|260,       0,     5,        3,  % Cetriolo
+|  3,       0,     4,        4,  % Lattuga
+|160,       0,    20,        2,  % Ketchup
+|  3,       0,     9,        4,  % Pomodoro
+|];
