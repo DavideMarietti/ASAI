@@ -1,5 +1,6 @@
 # **ASAI**
-Backup repository for the ***Advanced School in Artificial Intelligence (ASAI)*** course at the University of Ferrara.
+Backup repository for the ***Advanced School in Artificial Intelligence (ASAI)*** course at the University of Ferrara (Unife).
+
 This repository contains the notebooks developed during the **laboratory activity**, which are divided by argument as follows:
   - **Module A**: Knowledge-based problems, Min-max and Alpha-beta Cut in sum-zero games
   - **Module B**: Constraint Processing, constraint problems solved with MiniZinc
